@@ -23,10 +23,6 @@ def -h      # help
 def dslkdfj # invalid word, would give word suggestions
 ```
 
-![Image1](images/1_def.png)
-
-<img src="images/2_def.png" height=150 width=160/>
-
 ## External Dependencies
 
 `mpg123` for playing audio
